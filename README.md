@@ -1,6 +1,6 @@
 <!-- Pixel Avatar Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/911AXYUSH/911AXYUSH/main/ChatGPT Image Dec 4, 2025, 02_52_38 PM.png" width="220" />
+  <img src="https://raw.githubusercontent.com/911AXYUSH/911AXYUSH/main/pixar.png" width="220" />
 </p>
 
 <h1 align="center">🧡 Aayush Jadhav | 1st Year B.Tech | Game Developer 🎮</h1>
@@ -93,7 +93,7 @@
 
 # 🎨 Pixel Gamer Signature
 <p align="center">
-  <img src="https://raw.githubusercontent.com/911AXYUSH/911AXYUSH/main/ChatGPT Image Dec 4, 2025, 03_05_12 PM.png" width="170" />
+  <img src="https://raw.githubusercontent.com/911AXYUSH/911AXYUSH/main/pixar02.png" width="170" />
   <br>
 
 </p>
