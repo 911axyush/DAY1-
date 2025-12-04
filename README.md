@@ -1,15 +1,13 @@
-# DAY1-
-
-# Hey everyone! 👋
-
 <!-- ======================= 🔥 CUSTOM ORANGE + BLACK BANNER 🔥 ======================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=900&color=FF7A00&center=true&vCenter=true&width=800&lines=Aayush+Jadhav+👋;Game+Developer+%7C+1st+Year+B.Tech+Student;Roblox+%7C+Unity+%7C+JavaScript;Welcome+to+My+GitHub+Profile!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=900&color=FF7A00&center=true&vCenter=true&width=800&lines=Hey+Everyone!+👋;Welcome+to+My+GitHub+Profile!;Aayush+Jadhav+|+Game+Developer;Roblox+|+Unity+|+JavaScript" />
 </p>
 
+<!-- ======================= 🎮 PIXEL GAMER AVATAR ANIMATION ======================= -->
+
 <p align="center">
-  <img src="https://i.imgur.com/AvLx5MN.gif" width="420" />
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="260" />
 </p>
 
 ---
@@ -17,9 +15,8 @@
 # 🧡 About Me  
 🎓 **1st Year B.Tech CSE Student**  
 🎮 **Aspiring Game Developer**  
-🕹️ Currently building prototypes in **Roblox, Unity, and JS**  
-🔥 Passionate about multiplayer, puzzle, and mystery-style mechanics  
-📌 Documenting my entire game dev journey here  
+🔥 Creating prototypes in **Roblox, Unity & JavaScript**  
+📌 Currently learning scripting, game design, AI logic & UI  
 
 ---
 
@@ -34,7 +31,8 @@
 ---
 
 # 🧡🖤 Tech Stack  
-### 🎮 Game Development  
+
+### 🎮 **Game Development**  
 <p>
   <img src="https://img.shields.io/badge/Unity-FF7A00?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/Roblox_Lua-000000?style=for-the-badge&logo=lua&logoColor=white" />
@@ -42,7 +40,7 @@
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
 </p>
 
-### 🛠 Tools  
+### 🛠 **Tools I Use**  
 <p>
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio-FF7A00?style=for-the-badge&logo=visualstudio&logoColor=white" />
@@ -54,22 +52,22 @@
 ---
 
 # 🧡 My Projects  
-> **I will fill these with your GitHub repo links when you upload your games!**
+> **These slots will be updated when you upload repos 😎**
 
 ### 🔶 **Campus Mystery (Roblox Multiplayer Game)**  
-- Among Us–styled campus map  
-- Tasks, sabotage, vent system  
-- Custom student characters  
+✔ Among Us–style  
+✔ Campus map  
+✔ Tasks + sabotage + vents  
 ⭐ *Coming soon*
 
-### 🖤 **Shadow Swap (Unity 2D Puzzle Game)**  
-- Swap between the real world & shadow world  
-- Stealth system + AI enemies  
+### 🖤 **Shadow Swap (Unity Puzzle Game)**  
+✔ Real world ↔ Shadow world swap  
+✔ Stealth + AI  
 ⭐ *Coming soon*
 
-### 🔶 **SpeedRunner JS (Browser Mini-Game)**  
-- Simple runner game  
-- Leaderboard + score system  
+### 🔶 **SpeedRunner JS (Browser Game)**  
+✔ Simple runner  
+✔ Score system  
 ⭐ *Will upload soon*
 
 ---
@@ -90,9 +88,9 @@
 ---
 
 # 🧡 Fun Facts  
-- I love creating **mystery, stealth, and multiplayer mechanics**  
-- Currently learning **UI design, animations & AI logic**  
-- Dream: Publish my first full indie game in 2025  
+- I love building **mystery, stealth & multiplayer mechanics**  
+- I enjoy creating **AI bots, tasks & puzzle systems**  
+- Dream: Publish my first indie game by **2025**  
 
 ---
 
@@ -105,7 +103,6 @@
 ---
 
 <p align="center">
-  ⭐ <strong>Thanks for visiting my profile! Let’s build something awesome together.</strong> 🧡🎮  
+  ⭐ <strong>Thanks for visiting my profile! Let's build something amazing.</strong> 🧡🎮  
 </p>
-
 
