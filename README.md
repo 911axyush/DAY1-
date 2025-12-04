@@ -81,17 +81,13 @@
 ---
 
 # 📊 Stats & Activity  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=911AXYUSH&show_icons=true&theme=dark&title_color=ffa31a&icon_color=ffa31a" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=911AXYUSH&theme=dark&ring=ffa31a&currStreakLabel=ffa31a" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=911AXYUSH&layout=compact&theme=dark&title_color=ffa31a" />
-</p>
+
 
 ---
 
