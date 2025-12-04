@@ -95,7 +95,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/911AXYUSH/911AXYUSH/main/ChatGPT Image Dec 4, 2025, 03_05_12 PM.png" width="170" />
   <br>
-  <b>“Respawning… Loading next achievement…”</b>
+
 </p>
 
 ---
